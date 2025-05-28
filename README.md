@@ -6,7 +6,7 @@
 
 ### 2. Instalar Requisitos
 ```sh
-pip install reqs.txt
+pip install -r reqs.txt
 ```
 
 ### 3. Funcionamento
